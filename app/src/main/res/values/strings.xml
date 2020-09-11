@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GADS Leaderboard App</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="title_activity_main">LEADERBOARD</string>
+    <string name="button_text">Submit</string>
+</resources>
